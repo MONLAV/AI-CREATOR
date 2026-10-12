@@ -238,7 +238,7 @@ button {
 .hero {
   background:
     linear-gradient(rgba(35, 25, 24, 0.58), rgba(35, 25, 24, 0.68)),
-    url("images/hero.jpg") center center / cover no-repeat;
+    url("images/hero1.jpg") center center / cover no-repeat;
   margin-top: -87px;
   padding: 187px 0 100px;
   min-height: 520px;
