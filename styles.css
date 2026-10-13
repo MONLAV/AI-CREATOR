@@ -332,6 +332,9 @@ button {
   .hero-description {
     font-size: 16px;
   }
+  .hero-text {
+  padding-top: 30px;
+}
 }
 
 /* ===== Портфоліо ===== */
